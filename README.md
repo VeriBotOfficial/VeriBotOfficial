@@ -1,4 +1,4 @@
-<h1 align="center">VeriBot</h1>
+<h1 align="center">Hi, im Doruk Çavdar</h1>
 
 <br>
 
