@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=veribotoffiical&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=VeriBotOffiical&style=flat-square" />
 </p>
 
 <p align="center">
