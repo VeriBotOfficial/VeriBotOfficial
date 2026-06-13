@@ -1,16 +1,18 @@
-## Hi there 👋
+<h1 align="center">VeriBot</h1>
 
-<!--
-**VeriBotOfficial/VeriBotOfficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  product engineer • embedded tinkerer
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=veribotoffiical&style=flat-square" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=veribotoffiical&show_icons=true&hide_border=true&bg_color=00000000" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=veribotoffiical&layout=compact&hide_border=true&bg_color=00000000" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=veribotoffiical&theme=github-dark&hide_border=true" />
+</p>
