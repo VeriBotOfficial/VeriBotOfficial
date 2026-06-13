@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Doruk Çavdar</h1>
 
 <p align="center">
-  <a href="https://doruk.me">doruk.me</a> •
-  <a href="https://github.com/VeriBotOfficial">github</a>
+  <a href="https://doruk.me">Portfolio</a> •
+  <a href="https://github.com/VeriBotOfficial">Github</a>
 </p>
 <br>
 
