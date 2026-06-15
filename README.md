@@ -7,9 +7,10 @@
 <br>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VeriBotOfficial&layout=compact&hide_border=true&bg_color=00000000" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VeriBotOfficial&theme=github-dark&hide_border=true" />
 </p>
 
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VeriBotOfficial&theme=github-dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VeriBotOfficial&layout=compact&hide_border=true&bg_color=00000000" />
 </p>
