@@ -5,7 +5,7 @@
   <a href="https://github.com/VeriBotOfficial">Github</a>
 </p>
 <br><p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VeriBotOfficial&theme=github-dark&hide_border=true" />
+  <img src="https://github-stats-extended.vercel.app/api?username=VeriBotOfficial&theme=github_dark&hide_border=true" />
 </p><p align="center">
   <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=VeriBotOfficial&layout=compact&hide_border=true&bg_color=00000000" />
 </p>
